@@ -1,0 +1,31 @@
+body{
+  background-image: url(assets/bola.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  text-align: center;
+}
+.container{
+  background-color: rgb(253, 226, 238);
+  border-radius: 25px;
+  width: 50%;
+  height: 340px;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+input{
+  width: 250px;
+  text-align: center;
+  height: 25px;
+  border-radius: 20px;
+  font-size: medium;
+}
+button{
+  width: 150px;
+  height: 30px;
+  border-radius: 20px;
+  background-color: rgb(255, 199, 222);
+}
+h1{
+color: rgb(255, 199, 222);
+}
